@@ -1,4 +1,6 @@
 beautifulsoup4
 aiohttp
 selenium
+jupyter
+nest_asyncio
 
